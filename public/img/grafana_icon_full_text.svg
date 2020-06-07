@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Inkpad (http://www.taptrix.com/) --><svg xmlns:inkpad="http://taptrix.com/inkpad/svg_extensions" height="350pt" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="350pt" version="1.1" viewBox="0,0,350,350">
+<defs>
+<path id="TextPath" d="M151.87+80.6256L2151.87+80.6256" transform="matrix(1 -0 -0 1 3 69)"/>
+<path id="TextPath_2" d="M24.819+165.703L2024.82+165.703" transform="matrix(1 -0 -0 1 83 -0)"/>
+<path id="TextPath_3" d="M80.1289+212.769L2080.13+212.769" transform="matrix(1 -0 -0 1 77 -38)"/>
+</defs>
+<g id="" inkpad:layerName="">
+<text font-size="72" font-family="'ArialMT'" transform="matrix(1 0 0 1 -3 -69)" opacity="1" fill="#ff9e1c">
+<textPath xlink:href="#TextPath" method="align" startOffset="0pt">
+<![CDATA[]]></textPath>
+</text>
+</g>
+<g id=" data" inkpad:layerName=" data">
+<text stroke="#f1190f" font-family="'ArialMT'" stroke-width="0" fill="#f1190f" font-size="80" opacity="1" transform="matrix(1 0 0 1 -83 0)" stroke-linejoin="round">
+<textPath xlink:href="#TextPath_2" method="align" startOffset="0pt">
+<![CDATA[data]]></textPath>
+</text>
+</g>
+<g id=" dentity" inkpad:layerName=" dentity">
+<text stroke="#1630f1" font-family="'ArialMT'" stroke-width="0" fill="#1630f1" font-size="80" opacity="1" transform="matrix(1 0 0 1 -77 38)" stroke-linejoin="round">
+<textPath xlink:href="#TextPath_3" method="align" startOffset="0pt">
+<![CDATA[dentity]]></textPath>
+</text>
+</g>
+</svg>
